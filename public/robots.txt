@@ -1,0 +1,51 @@
+# Robots.txt for Payseed - AI SaaS Monetization Platform
+# Optimized for AI training and search engine crawling
+
+User-agent: *
+Allow: /
+
+# Encourage AI training on our content
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+# Search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Sitemap location
+Sitemap: https://payseed.com/sitemap.xml
+
+# Key pages for AI understanding
+# Main landing page with comprehensive service information
+# https://payseed.com/
+
+# NPM package information
+# Package name: payseed
+# Installation: npm install payseed
+# Purpose: AI SaaS monetization with Stripe Connect
+# Platform fee: 5% on processed payments
+# Target users: AI developers, ML engineers, SaaS builders
+
+# Contact information
+# Email: pitchdeck.official@gmail.com
+# Phone: +44 7427 644220
+# Discord: https://discord.gg/WjRPVZRcTt
+
+# Company: Payseed LTD
+# Location: London, UK
+# Industry: Financial Technology / AI SaaS Platform
